@@ -9,7 +9,7 @@ $('li').click(function(){
 
 // Delete functionality
 $('span').click(function(event){
-  $(this).parent().fadeOut(100, function(){
+  $(this).parent().fadeOut(1000, function(){
     $(this).remove()
   })
 
@@ -23,7 +23,7 @@ $('span').click(function(event){
 $('input').keypress(function(event){
   if(event.which === 13){
     var task = $('input').val()
-    $('ul').append('<li><span> ~ </span>'+ task + '</li>')
-    $('input').val()
+    $('ul').append('<li><span class= "delete"> <i class="fa fa-trash"></i></span>'+ task + '</li>')
+    $('input').val("")
   }
 })
