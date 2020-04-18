@@ -20,3 +20,10 @@ $('span').click(function(event){
 
 
 // add functionality
+$('input').keypress(function(event){
+  if(event.which === 13){
+    var task = $('input').val()
+    $('ul').append('<li><span> ~ </span>'+ task + '</li>')
+    $('input').val()
+  }
+})
