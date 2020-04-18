@@ -8,7 +8,13 @@ $('li').click(function(){
 
 
 // Delete functionality
+$('span').click(function(event){
+  $(this).parent().fadeOut(100, function(){
+    $(this).remove()
+  })
 
+  event.stopPropagation()
+})
 
 
 
