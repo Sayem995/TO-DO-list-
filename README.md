@@ -24,8 +24,8 @@ Heroku for deployment <br>
 
 
 ### Features
-List of recipes
-Sign up/ Sign in Feature
+List of recipes <br>
+Sign up/ Sign in Feature <br>
 Delete food from your inventory when you have given it away or it has passed it's expiry date. <br>
 Find food in your local area that people are giving away. <br>
 Contact a user who is listing food you want. <br>
@@ -36,7 +36,6 @@ Contact a user who is listing food you want. <br>
 
 ### How to use
 
-heroku run rails db:migrate
 To run back end repository.
 ```bash
 heroku run rails db:migrate
