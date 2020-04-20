@@ -39,8 +39,7 @@ Contact a user who is listing food you want. <br>
 heroku run rails db:migrate
 To run back end repository.
 ```bash
-npm run server
-node server.js
+heroku run rails db:migrate
 ```
 
 To run front end repository
@@ -72,14 +71,17 @@ http://localhost:3000/
 #### User Stories
 
 As a user <br>
-So I can find unwanted food <br>
-I can view a list of available food <br>
+So I can find food recipes  <br>
+I can view a list of available recipes <br>
+
 As a user <br>
 So I can access my account <br>
 I can log in <br>
+
 As a user <br>
 So I can create an account <br>
 I can sign up <br>
+
 As a user <br>
 So I can give away food I won't use <br>
 I can list a food item <br>
