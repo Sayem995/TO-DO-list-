@@ -68,7 +68,7 @@ You can now view in your browser of choice by visiting:
 http://localhost:3000/
 
 #### User Stories
-
+```
 As a user <br>
 So I can find food recipes  <br>
 I can view a list of available recipes <br>
@@ -84,3 +84,4 @@ I can sign up <br>
 As a user <br>
 So I can give away food I won't use <br>
 I can list a food item <br>
+```
