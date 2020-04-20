@@ -1,5 +1,4 @@
-###
-My Co(ok)Vid 13 App
+### My Co(ok)Vid 13 App
 
 ### Project Description
 A project by Hisham, Sayem, Haya and Omar.  Co(ok)vid 13 is a website to help the world waste less time searching for cooking videos/recipes by allowing people to easily access hundreds of recipes that hundreds of people have tried, tested and reviewed within the local community.
