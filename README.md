@@ -6,6 +6,7 @@ A project by Hisham, Sayem, Haya and Omar.  Co(ok)vid 13 is a website to help th
 As well as allowing users to list their own food to give away and find available in their local area. There's even recipe suggestions based on the ingredients based in your local area.
 
 ### Test
+
 Minitest
 
 layout of the application
@@ -69,19 +70,19 @@ http://localhost:3000/
 
 #### User Stories
 ```
-As a user <br>
-So I can find food recipes  <br>
-I can view a list of available recipes <br>
+As a user
+So I can find food recipes
+I can view a list of available recipes
 
-As a user <br>
-So I can access my account <br>
-I can log in <br>
+As a user
+So I can access my account
+I can log in
 
-As a user <br>
-So I can create an account <br>
-I can sign up <br>
+As a user
+So I can create an account
+I can sign up
 
-As a user <br>
-So I can give away food I won't use <br>
-I can list a food item <br>
+As a user
+So I can give away food I won't use
+I can list a food item
 ```
