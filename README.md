@@ -21,6 +21,14 @@ Rails 5 using free cloud-based Integrated Development Environment  <br>
 Bootstrap for UI <br>
 AWS for file/image hosting, Gravatars <br>
 Heroku for deployment <br>
+Database: 1:m associations <br>
+```
+Relational Database
+SQL
+ActiveRecord
+Database layer, associations
+1:m, m:m
+```
 
 
 ### Features
