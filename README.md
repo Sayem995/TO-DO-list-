@@ -58,18 +58,6 @@ You can now view in your browser of choice by visiting:
 
 http://localhost:3000/
 
-### How to use
-
-To run back end repository.
-```bash
-npm run server
-node server.js
-```
-
-To run front end repository
-```
-npm run start
-```
 
 You can now view in your browser of choice by visiting:
 
